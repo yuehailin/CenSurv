@@ -1,1 +1,1 @@
-The extracted text, pathology and genetic characterization will be uploaded as soon as possible.
+The extracted features of the clinical records, pathology and genetic will be uploaded as soon as possible.
