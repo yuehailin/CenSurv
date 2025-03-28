@@ -4,5 +4,18 @@ Accurately predicting the survival of cancer patients is crucial for personalize
 
 ![image](https://github.com/user-attachments/assets/d021d1a1-493c-411e-b918-d4ff1d8cc98e)
 
+## Data Acquisition
+Pathological slide and clinical records are available at https://portal.gdc.cancer.gov/. Genomic profile is available at https://www.cbioportal.org/.
+The extracted features of the clinical records, pathology and genetic will be uploaded as soon as possible.
+
+## Data Partitioning
+In the 5-fold cross validation folder, we provide the details of data splitting for each disease.
+
+## Train
+```
+train-for-graph.py
+```
+
+
 
 
