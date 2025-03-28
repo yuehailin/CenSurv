@@ -20,7 +20,7 @@ from torch_geometric.data import DataLoader
 from sklearn.model_selection import train_test_split
 from lifelines.utils import concordance_index as ci
 from sklearn.model_selection import StratifiedKFold
-from mae_model_graph4 import fusion_model_mae_2
+from mae_model_graph import fusion_model_mae_2
 from util import Logger, get_patients_information,get_all_ci,get_val_ci,adjust_learning_rate,get_patients_information_new,get_new_dict,get_changed_form_dict
 from mae_utils_graph import generate_mask
 from tqdm import tqdm
