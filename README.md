@@ -16,13 +16,6 @@ In the 5-fold cross validation folder, we provide the details of data splitting 
 train-for-graph.py
 ```
 
-## 4. The Performance of Risk Stratification
-![image](https://github.com/user-attachments/assets/3c674b30-7d8b-436b-8833-c9c2b71f7c08)
-
-
-## 5. Interpretability 
-![image](https://github.com/user-attachments/assets/8438026e-7c6e-466c-8da0-2245690954cf)
-
 ## Acknowledge
 This project is based on [HGCN](https://github.com/lin-lcx/HGCN) and [MUSE+](https://github.com/zzachw/MUSE). We have great thanks for these awesome projects.
 
